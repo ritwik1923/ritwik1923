@@ -51,29 +51,18 @@
 
   
 
-- **Flutter App Developer **
+- **Flutter App Developer**
 
   
-
-  
-
   
 
 - **Python Developer 🐍**
 
-  
-
-  
-
-  
+    
 
 - **Automation Expert ⚙️**
 
-  
-
-  
-
-  
+   
 
 - **Competitive Coder 🐱‍💻**
 
@@ -286,11 +275,10 @@
 
   
 
-  
-
 <hr>
 
   
+
 
   
 
@@ -301,18 +289,13 @@
   
 
   
-
-  
-
-<a  href="https://www.linkedin.com/in/ritwik-mandal-3487101a5/"  target="blank"><img  align="center"  src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"  alt="Ritwik Mandal"  height="30"  width="40" /></a>
-
   
 
   
 
-  
+<a  href="https://www.linkedin.com/in/ritwik-mandal-3487101a5/"  target="blank"><img   src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"  alt="Ritwik Mandal"  height="30"  width="40" /></a>
 
-<a  href="mailto:ritwikmandalsubho@gmail.com"><img  align="center"  src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg"  alt="ritwikmandalsubho@gmail.com"  height="30"  width="40" /></a>
+<a  href="mailto:ritwikmandalsubho@gmail.com"><img  src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg"  alt="ritwikmandalsubho@gmail.com"  height="30"  width="40" /></a>
 
   
 
