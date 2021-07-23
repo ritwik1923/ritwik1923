@@ -292,9 +292,9 @@
 <hr>
  
 ## Connect with me:
-<a href="https://www.linkedin.com/in/ritwik-mandal-3487101a5/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Soumyadeep Biswas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/b_soumya4/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="_rwk_3030" height="30" width="40" /></a>
-<a href="mailto:soumyadeep184@gmail.com"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="ritwikmandalsubho@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritwik-mandal-3487101a5/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Ritwik Mandal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_rwk_3030/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" alt="_rwk_3030" height="30" width="40" /></a>
+<a href="mailto:itwikmandalsubho@gmail.com"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="ritwikmandalsubho@gmail.com" height="30" width="40" /></a>
 <hr>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=ritwik1923&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&hide_border=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik1923&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02&hide_border=true"/>|
