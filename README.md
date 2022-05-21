@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Flask and cp. preparing for interviews**
 
-- 👯 I’m looking to collaborate on [thanks buddyD](https://github.com/thanks-buddy/parse_resume)
+- 👯 I’m looking to collaborate on [thanks buddy](https://github.com/thanks-buddy/parse_resume)
 
 - 📫 How to reach me **mr.ritwik.mandal@gmail.com**
 
