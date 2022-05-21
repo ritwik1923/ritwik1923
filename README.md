@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/_rwk_3030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rwk_3030" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritwik-mandal-3487101a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwik-mandal-3487101a5" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/coder_ritwik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coder_ritwik" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ritwikmandalsubho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ritwikmandalsubho" height="30" width="40" /></a>
